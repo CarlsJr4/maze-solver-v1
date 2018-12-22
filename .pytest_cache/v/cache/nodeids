@@ -1,0 +1,7 @@
+[
+  "my_module/tests/test_functions.py::test_hole_generator",
+  "my_module/tests/test_functions.py::test_check_bounds",
+  "my_module/tests/test_functions.py::test_maze_bot",
+  "my_module/tests/test_functions.py::test_maze_bot_behavior",
+  "my_module/tests/test_functions.py::test_final_choice"
+]
